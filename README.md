@@ -1,7 +1,7 @@
 # Groupchat-Electron-app
 Application to chat with friends in real-time
 
-*For Firecry Devs*
+# For Firecry Devs
 
 Create a github account if you do not already have one
 
@@ -13,11 +13,81 @@ Install Git https://git-scm.com/downloads
 
 Install VSCode https://code.visualstudio.com/
 
+For UI people install the React Developer Tools Chrome extension: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
 Once Everything is installed
 
-*VSCode Setup*
+## VSCode Setup
 
 Run VSCode
+
+Click the icon with the four boxes with one not touching the others. 
+
+Look up and Install the following extensions:
+
+Extensions
+
+`*` = Required
+
+`-` = Optional but Useful
+
+(-) `Auto Close Tag`
+
+(-) `Auto Reaname Tag`
+
+(*) `Babel ES6/ES7`
+
+(-) `Beautify`
+
+(-) `Better Comments`
+
+(-) `Bracket Pair Colorizer` or `Bracker Pair Colorizer 2` or Both
+
+(*) `Code Runner`
+
+(*) If you use FireFox (-) If not `Debugger for Firefox`
+
+(*) `ES7 React/Redux/GraphQL/React-Native snippets`
+
+(*) `ESLint`
+
+(*) `flask-snippets`
+
+(*) `HTML CSS Support`
+
+(-) `indent-rainbow`
+
+(*) `JavaScript (ES6) code snippets`
+
+(*) `Live Share`
+
+(*) `Material Icon Theme`
+
+(*) `npm`
+
+(*) `PostgreSQL`
+
+(*) `Prettier - Code formatter`
+
+(*) `Python`
+
+(-) `Rainbow Brackets`
+
+(*) `Simple React Snippets`
+
+(*) `SQLTools`
+
+(-) `Terminal Status Bar`
+
+(*) `Thunder Client`
+
+(-) `Visual Studio IntelliCode`
+
+(*) `vscode-database`
+
+(-) `vscode-styled-components`
+
+(-) `vscode-styled-jsx`
 
 Create a folder (This folder will be where you will have your local repo)
 
@@ -41,7 +111,7 @@ If the box to the right of the terminal box says bash you are good to go on.
 
 If not click the + button to the right of the terminal hopefully it says bash now.
 
-*Cloning Repo*
+## *Cloning Repo*
 
 Open terminal
 
@@ -65,7 +135,7 @@ Hit enter.
 
 You may be asked to authorize your github account or signin to it.
 
-*Dependencies to install from terminal*
+## *Dependencies to install from terminal*
 
 Open terminal 
 
@@ -94,3 +164,11 @@ Play around with the links
 All changes saved in will show in real time on the two UI as long as the server is still running.
 
 To close the server click `ctrl-c`
+
+Once done you can look up ways to customize VSCode
+
+Here is a link to get you started: https://code.visualstudio.com/docs/introvideos/configure
+
+To change the color of the bottom bar from blue install the Color Stamp extension 
+
+Type: `ctrl-shift-p`, Type: `Color Stamp`, Select a color
