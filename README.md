@@ -153,13 +153,17 @@ If it says npm is not a command close VSCode and rerun it.
 
 `npm i react-router-dom --save`
 
-`npm run electron-react` 
+`npm run electron-react-api` 
+
+`pip install flask`
+
+`pip install flask_restful`
 
 Two of the same UI should show up one in a Browser tab and the other a desktop window.
 
 Play around with the links
 
-`npm run electron-react` will be the main command used to run the server to run the application. 
+`npm run electron-react-api` will be the main command used to run the server to run the application. 
 
 All changes saved in will show in real time on the two UI as long as the server is still running.
 
