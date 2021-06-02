@@ -31,17 +31,7 @@ Extensions
 
 `-` = Optional but Useful
 
-(-) `Auto Close Tag`
-
-(-) `Auto Reaname Tag`
-
 (*) `Babel ES6/ES7`
-
-(-) `Beautify`
-
-(-) `Better Comments`
-
-(-) `Bracket Pair Colorizer` or `Bracker Pair Colorizer 2` or Both
 
 (*) `Code Runner`
 
@@ -54,8 +44,6 @@ Extensions
 (*) `flask-snippets`
 
 (*) `HTML CSS Support`
-
-(-) `indent-rainbow`
 
 (*) `JavaScript (ES6) code snippets`
 
@@ -71,19 +59,31 @@ Extensions
 
 (*) `Python`
 
-(-) `Rainbow Brackets`
-
 (*) `Simple React Snippets`
 
 (*) `SQLTools`
 
-(-) `Terminal Status Bar`
-
 (*) `Thunder Client`
 
-(-) `Visual Studio IntelliCode`
-
 (*) `vscode-database`
+
+(-) `Auto Close Tag`
+
+(-) `Auto Reaname Tag`
+
+(-) `Beautify`
+
+(-) `Better Comments`
+
+(-) `Bracket Pair Colorizer` or `Bracker Pair Colorizer 2` or Both
+
+(-) `indent-rainbow`
+
+(-) `Rainbow Brackets`
+
+(-) `Terminal Status Bar`
+
+(-) `Visual Studio IntelliCode`
 
 (-) `vscode-styled-components`
 
