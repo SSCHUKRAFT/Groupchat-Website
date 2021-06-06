@@ -163,8 +163,9 @@ If it says npm is not a command close VSCode and rerun it.
 
 `pip install psycopg2`
 
-`npm run electron-react-api` 
+`npm run electron-react-api`
 
+`npm i react-scripts`
 
 
 Two of the same UI should show up one in a Browser tab and the other a desktop window.
