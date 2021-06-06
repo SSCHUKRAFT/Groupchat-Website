@@ -63,6 +63,8 @@ Extensions
 
 (*) `SQLTools`
 
+(*) `SQLTools PostgreSQL/Redshift Driver`
+
 (*) `Thunder Client`
 
 (*) `vscode-database`
@@ -158,6 +160,8 @@ If it says npm is not a command close VSCode and rerun it.
 `pip install flask`
 
 `pip install flask_restful`
+
+`pip install psycopg2`
 
 Two of the same UI should show up one in a Browser tab and the other a desktop window.
 

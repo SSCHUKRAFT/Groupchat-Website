@@ -23,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "electron-react-api": "concurrently \"npm start\" \"wait-on http://localhost:3000 && electron .\" \"cd .. && cd backend && flask run --no-debugger\""
+    "electron-react-api": "concurrently \"npm start\" \"wait-on http://localhost:3000 && electron .\" \"cd ../backend && flask run -h localhost -p 4000 --no-debugger \""
   },
   "eslintConfig": {
     "extends": [
