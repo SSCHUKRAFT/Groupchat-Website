@@ -1,6 +1,7 @@
 import psycopg2
+from .secret import get_secret
 
-PSQL_URL = open('./secret/secret.txt', 'r').read()
+PSQL_URL = get_secret()
 
 def connect():
   return psycopg2.connect(PSQL_URL)
