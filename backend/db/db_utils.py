@@ -1,6 +1,6 @@
 import psycopg2
 
-PSQL_URL = 'postgres://blghjwjl:ygUr5FeqqXheMpqf3NkY3ryqJ9x1bbhd@batyr.db.elephantsql.com/blghjwjl'
+PSQL_URL = open('./secret/secret.txt', 'r').read()
 
 def connect():
   return psycopg2.connect(PSQL_URL)

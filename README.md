@@ -155,17 +155,19 @@ If it says npm is not a command close VSCode and rerun it.
 
 `npm i react-router-dom --save`
 
+`npm add concurrently`
+
 `pip install flask`
 
 `pip install flask_restful`
 
-`pip install socket.io-client`
+`pip install socketio-client`
 
 `pip install psycopg2`
 
-`npm run electron-react-api`
-
 `npm i react-scripts`
+
+`npm run electron-react-api`
 
 
 Two of the same UI should show up one in a Browser tab and the other a desktop window.
