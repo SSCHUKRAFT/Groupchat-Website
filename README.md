@@ -140,6 +140,12 @@ You may be asked to authorize your github account or signin to it.
 
 ## *Dependencies to install from terminal*
 
+Open the backend folder and then the db folder and then the secret folder
+
+In the secret folder create a file called secret.py
+
+In the file copy and paste from the Discord documents channel where it says `secret.py` followed by the code to copy and paste
+
 Open terminal 
 
 Change directory to `~/name-of-folder-you-made/Groupchat-Website/firecry-chatapp`
