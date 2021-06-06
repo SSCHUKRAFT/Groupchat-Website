@@ -159,6 +159,8 @@ If it says npm is not a command close VSCode and rerun it.
 
 `pip install flask_restful`
 
+`pip install socketio-client`
+
 `pip install psycopg2`
 
 `npm run electron-react-api` 
