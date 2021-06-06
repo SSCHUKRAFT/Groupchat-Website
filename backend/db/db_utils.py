@@ -1,5 +1,5 @@
 import psycopg2
-from .secret import get_secret
+from .secret.secret import get_secret
 
 PSQL_URL = get_secret()
 

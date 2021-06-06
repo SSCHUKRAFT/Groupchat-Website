@@ -1,6 +1,7 @@
 # Groupchat-Electron-app
 Application to chat with friends in real-time
 
+
 # For Firecry Devs
 
 Create a github account if you do not already have one
