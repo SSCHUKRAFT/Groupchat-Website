@@ -162,7 +162,7 @@ If it says npm is not a command close VSCode and rerun it.
 
 `npm i react-router-dom --save`
 
-`npm install concurrently`
+`npm add concurrently OR npm install concurrently`
 
 `pip install flask`
 
