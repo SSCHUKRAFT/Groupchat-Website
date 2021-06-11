@@ -1,15 +1,15 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import LoginForm from "../LoginForm/LoginForm";
+
+import './Login.css';
+
 class Login extends Component {
   render() {
     return (
-      <div>
-        <h2>Login</h2>
-        <div>
-          <Link to="/signup">Signup</Link>
-        </div>
-        <div>
-          <Link to="/">Home</Link>
+      <div className="loginBg">
+        <img src={process.env.PUBLIC_URL + '/Logo.svg'} alt="Smalltalk Logo"/> 
+        <div className="test">
+          <LoginForm />
         </div>
       </div>
     );
