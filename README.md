@@ -148,7 +148,7 @@ In the file copy and paste from the Discord documents channel where it says `sec
 
 Open terminal 
 
-Change directory to `~/name-of-folder-you-made/Groupchat-Website/firecry-chatapp`
+Change directory to `~/name-of-folder-you-made/Groupchat-Website/frontend`
 
 Type these commands in the terminal: 
 
