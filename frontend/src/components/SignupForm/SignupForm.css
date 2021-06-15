@@ -7,8 +7,8 @@
 }
 
 .form-label {
-  padding-top: 5px;
-  font-size: 1.3em;
+  padding-top: 3px;
+  font-size: 1.1em;
 }
 
 .form-textbox {
@@ -45,4 +45,10 @@
 
 .visible-icon {
   height: 14px;
+}
+
+.email-icon {
+  height: 14px;
+  margin: 1px;
+  margin-right: 5px;
 }

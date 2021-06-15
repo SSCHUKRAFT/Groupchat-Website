@@ -1,16 +1,13 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import SignupForm from "../SignupForm/SignupForm";
+import './Signup.css';
 
 class Signup extends Component {
   render() {
     return (
-      <div>
-        <h2>Signup</h2>
-        <div>
-          <Link to="/login">Login</Link>
-        </div>
-        <div>
-          <Link to="/">Home</Link>
+      <div className="signup-bg">
+        <div className="signup-box-container">
+          <SignupForm />
         </div>
       </div>
     );

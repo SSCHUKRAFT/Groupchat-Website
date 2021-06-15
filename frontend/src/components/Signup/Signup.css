@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-.login-bg {
+.signup-bg {
   background: linear-gradient(135.78deg, #0094FF 10.86%, rgba(255, 255, 255, 0) 89.53%),#06A429;
   background-position: center;
   background-repeat: no-repeat;
@@ -11,19 +11,9 @@
   text-align: 'center';
 }
 
-.login-box-container {
-  margin: 1%;
+.signup-box-container {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
 }
-
-.logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 20%;
-    height: auto;
-    padding: 10px;
-  }
